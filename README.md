@@ -1,4 +1,4 @@
-# ReflectionUtils
+# ReflectionUtils [![Maven Package](https://github.com/tinycodecrank/ReflectionUtils/actions/workflows/maven-publish.yml/badge.svg)](https://github.com/tinycodecrank/ReflectionUtils/actions/workflows/maven-publish.yml)
 
 ## Contents
 
