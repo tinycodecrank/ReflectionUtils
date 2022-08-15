@@ -10,4 +10,4 @@ Accessor | This is a tool to make Fields/Methods/… accessible, perform an acti
 
 java version | library version | Download
 :----------: | :-------------: | :-------
-18+          | 1.0.0           | [ReflectionUtils.jar](https://github.com/tinycodecrank/ReflectionUtils/releases/download/v1.0.0/ReflectionUtils.jar)
+18+          | 1.0.0           | [**ReflectionUtils.jar**](https://github.com/tinycodecrank/ReflectionUtils/releases/download/v1.0.0/ReflectionUtils.jar)
